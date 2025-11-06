@@ -5,7 +5,7 @@ Previously, I earned my **B.S. in Information Management & Technology (Web Desig
 I’m also a **Google Certified Data Analyst**, passionate about exploring the intersection of data, design, and software development.
 
 💻 **What I’m Working On:**  
-- Building Python projects (Snake 🐍, Pong 🏓, Blackjack ♠️)  
+- Developing Python applications focused on game logic, data processing, and automation  
 - Exploring Data Structures and Algorithms    
 - Writing and optimizing programs in **ARM Assembly**  
 - Combining data analytics and visualization with software tools  
@@ -24,3 +24,4 @@ Software Development • Data Analytics • Game Design • Web & UI • PC Buil
 
 📍 Baltimore, MD  
 📫 [LinkedIn](https://linkedin.com/in/noahschroeder)
+📧 **noahrs3@outlook.com** | **nschroe4@jh.edu**
