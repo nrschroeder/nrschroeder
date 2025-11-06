@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I’m Noah 👋  
 
-<!--
-**nrschroeder/nrschroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a graduate student at **Johns Hopkins University**, pursuing my **M.S. in Computer Science**.  
+Previously, I earned my **B.S. in Information Management & Technology (Web Design)** from **Syracuse University**.  
+I’m also a **Google Certified Data Analyst**, passionate about exploring the intersection of data, design, and software development.
 
-Here are some ideas to get you started:
+💻 **What I’m Working On:**  
+- Building Python projects (Snake 🐍, Pong 🏓, Blackjack ♠️)  
+- Exploring Data Structures and Algorithms    
+- Writing and optimizing programs in **ARM Assembly**  
+- Combining data analytics and visualization with software tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ **Tech Stack:**  
+Python • Java • R • SQL • ARM Assembly • HTML/CSS • Git • Turtle Graphics  
+
+🎓 **Education & Certifications:**  
+- **M.S. Computer Science** — Johns Hopkins University (in progress)  
+- **B.S. Information Management & Technology (Web Design)** — Syracuse University  
+- **Google Data Analytics Professional Certificate**
+- **Dale Carnegie Course** — Professional Development in Communication & Leadership
+
+🎯 **Interests:**  
+Software Development • Data Analytics • Game Design • Web & UI • PC Building • Automotive • Technology 
+
+📍 Baltimore, MD  
+📫 [LinkedIn](https://linkedin.com/in/noahschroeder)
