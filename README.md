@@ -1,27 +1,27 @@
-### Hi, I’m Noah 👋  
+## Hey, I’m Noah 👋
 
-I’m a graduate student at **Johns Hopkins University**, pursuing my **M.S. in Computer Science**.  
-Previously, I earned my **B.S. in Information Management & Technology (Web Design)** from **Syracuse University**.  
-I’m also a **Google Certified Data Analyst**, passionate about exploring the intersection of data, design, and software development.
+M.S. Computer Science student at Johns Hopkins University.
 
-💻 **What I’m Working On:**  
-- Developing Python applications focused on game logic, data processing, and automation  
-- Exploring Data Structures and Algorithms    
-- Writing and optimizing programs in **ARM Assembly**  
-- Combining data analytics and visualization with software tools  
+### What I’m Working On
+- Python projects focused on game logic, automation, and data processing
+- Learning data structures and algorithms
+- Writing programs in ARM assembly
+- Building tools for data analysis and visualization
 
-⚙️ **Tech Stack:**  
-Python • Java • R • SQL • ARM Assembly • HTML/CSS • Git • Turtle Graphics  
+### Tech Stack
+Python • Java • R • SQL • ARM Assembly • HTML/CSS • Git
 
-🎓 **Education & Certifications:**  
-- **M.S. Computer Science** — Johns Hopkins University (in progress)  
-- **B.S. Information Management & Technology (Web Design)** — Syracuse University  
-- **Google Data Analytics Professional Certificate**
-- **Dale Carnegie Course** — Professional Development in Communication & Leadership
+### Education
+- Johns Hopkins University - M.S. Computer Science (in progress)
+- Syracuse University - B.S. Information Management and Technology (Web Design)
 
-🎯 **Interests:**  
-Software Development • Data Analytics • Game Design • Web & UI • PC Building • Automotive • Technology 
+### Certifications
+- Google Data Analytics Professional Certificate
+- Dale Carnegie Course
+
+### Interests
+Software Development • Data Analytics • Game Development • PC Building • Automotive Tech
 
 📍 Baltimore, MD  
-📫 [LinkedIn](https://linkedin.com/in/noahschroeder)
-📧 **noahrs3@outlook.com** | **nschroe4@jh.edu**
+📫 LinkedIn: linkedin.com/in/noahschroeder  
+📧 noahrs3@outlook.com | nschroe4@jh.edu
